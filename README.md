@@ -15,6 +15,7 @@
 - [Licence](#license)
 - [Author](#author)
 - [Contact](#contact)
+- [Diplomski rad](#diplomski-rad)
 
 ## Overview
 
@@ -227,3 +228,33 @@ Sebastijan Dominis
 ## Contact
 
 sebastijan.dominis99@gmail.com
+
+## Diplomski Rad
+
+Ovdje su navedeni svi podaci potrebni za predaju diplomskog rada.
+
+SVEUČILIŠTE JURJA DOBRILE U PULI 
+
+FAKULTET INFORMATIKE
+
+Sebastijan Dominis
+
+Sustav za upravljanje procesima strojnog učenja uz verzioniranje i sljedivost podataka te modela
+
+DIPLOMSKI RAD
+
+JMBAG: 0081165113, izvanredni student
+
+Studijski smjer: Informatika
+
+Kolegij: Raspodijeljeni sustavi
+
+Znanstveno područje : Društvene znanosti
+
+Znanstveno polje : Informacijske znanosti
+
+Znanstvena grana : Informacijski sustavi i informatologija
+
+Mentor: izv. prof. dr. sc. Nikola Tanković
+
+Pula, lipanj, 2027. godine
